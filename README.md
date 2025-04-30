@@ -5,6 +5,10 @@ Build a React application that uses the authenticated [DummyJSON Posts API](http
 
 ---
 
+## Sample App
+[Dummy Posts App](https://dummy-json-react.netlify.app/)
+
+
 ## ✅ Requirements
 
 ### 🔐 1. Login Page
